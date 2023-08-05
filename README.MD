@@ -12,6 +12,7 @@ I'm a passionate ReactJS developer with a strong interest in web development and
 
 Here are some of the technologies and tools I work with:
 
+| ![React](https://img.icons8.com/color/48/000000/react-native.png) 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
